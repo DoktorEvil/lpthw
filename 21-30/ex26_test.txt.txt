@@ -1,0 +1,10 @@
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        2024-09-12  11:27 AM                __pycache__
+-a----        2024-06-06   5:05 PM            708 lesson21.py
+-a----        2024-08-01   4:31 PM            649 lesson23.py
+-a----        2024-09-12   2:09 PM           1177 lesson24.py
+-a----        2024-08-29   7:04 PM           1201 lesson25.py
+-a----        2024-08-29   7:13 PM           1030 lesson25a.py
+-a----        2024-08-29   7:22 PM           1088 lesson25b.py
+-a----        2024-09-12   2:34 PM           2187 lesson26.py
