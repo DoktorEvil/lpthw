@@ -38,3 +38,4 @@ if __name__ == "__main__":
 #you want to compare. When you run this script, it will display the differing filenames and
 #prompt you to copy them if desired. Remember to adjust the paths and customize the behavior as needed for
 #your specific use case.
+#copilot was used to create this
